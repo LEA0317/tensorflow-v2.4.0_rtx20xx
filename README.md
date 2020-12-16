@@ -11,6 +11,8 @@ Optimizations
  -> mkl
  -> up to AVX2
 
+This build will be my last, as TensorFlow's support for NVIDIA GPUs has been dramatically improved.
+
 NVIDIA GPU Support
   RTX20xx series
   etc.
